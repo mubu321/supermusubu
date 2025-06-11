@@ -1,9 +1,5 @@
-# binjgb
-
-Fork of binji's Game Boy emulator built as a WebAssembly module.
-
-It includes changes from [Daid's fork](https://github.com/daid/binjgb) and others to better support GB Studio.
-
+#supermusubu
+スーパーなむすぶを操作するゲーム。
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
