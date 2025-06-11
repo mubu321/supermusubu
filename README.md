@@ -1,4 +1,4 @@
-#supermusubu
+# supermusubu
 スーパーなむすぶを操作するゲーム。
 ## License
 
